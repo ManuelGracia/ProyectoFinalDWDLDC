@@ -1,0 +1,28 @@
+.containerInicio{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 1fr);
+    width: 209vh;
+    height: 600px;
+    background-color: rgb(166, 139, 213);
+}
+
+.columna{
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+    font-family: sans-serif;
+    font-size: large;
+    padding: 40px;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+.TituloInicio{
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(89, 20, 110);
+}

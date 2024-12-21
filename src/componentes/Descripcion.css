@@ -1,0 +1,26 @@
+.TituloDesc{
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(89, 20, 110);
+}
+
+h2{
+    margin-top: 10px;
+}
+
+.Parrafo{
+    margin-top: -18px;
+    width: 209vh;
+    height: 600px;
+    background-color: rgb(166, 139, 213);
+    text-align: justify;
+}
+
+.pDesc{
+    padding-top: 10vh;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: large;
+    width: 200vh;
+    padding-left: 40px;
+}

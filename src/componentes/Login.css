@@ -1,0 +1,71 @@
+/* JUAN MANUEL GRACIA CABRERA | 2-1 */
+
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(166, 139, 213);
+  }
+  
+  .login-form {
+    background: #8989dd;
+    padding: 50px;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: purple;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    color: #000000;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+  }
+  
+  .inputs {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    color: black;
+  }
+  
+  button {
+    width: 100%;
+    padding: 15px;
+    background-color: #495b6e;
+    color: white;
+    border: 2px solid purple;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-left: 8px;
+  }
+  
+  button:hover {
+    background-color: #2c3641;
+  }
