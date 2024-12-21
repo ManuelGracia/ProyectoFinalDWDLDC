@@ -7,7 +7,6 @@ export default function Footer() {
             <footer>
                 
                 <h2>Twitch</h2>
-
                 <ul>
                     <li><Link to="/">Inicio</Link></li>
                     <li><Link to="/Descrip">Descripción</Link></li>
